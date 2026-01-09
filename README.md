@@ -10,6 +10,11 @@ DURUS includes a AV Bay with a flight controller/Altimeter which allows for cont
 DURUS is paired with optimal flight gear, and specifically engineered for flight performance methods that reach for as high as possible! Designed with colors and designs that allow for a aesthetic look. DURUS is paired with stabilization methods that are fail proof which allow for controlled lift-off, flight, and descent.
 
 ![CrossSec2](https://github.com/user-attachments/assets/454034ae-9396-4d9c-bef9-51d228f62b9e)
+
+DURUS also includes an Avianics Bay paired with code, that will allow for the system to initiate and launch correctly and thouroughly: 
+![fullavbay](https://github.com/user-attachments/assets/ee03e278-e597-4bbb-85b8-e37eca0efa70)
+![Altimeter Schematic](https://github.com/user-attachments/assets/4bfb5538-65f7-4c29-a315-b1ae463c9dfa)
+
 ----------------------------------------------------------------------------------------------------------
 Below is the BOM attached:
 https://docs.google.com/spreadsheets/d/1oTaDE35kNEntzKQFY84x4RhEy59wSwxMxGnyMTrWOms/edit?usp=sharing
