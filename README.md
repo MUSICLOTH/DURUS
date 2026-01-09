@@ -11,8 +11,10 @@ DURUS is paired with optimal flight gear, and specifically engineered for flight
 
 ![CrossSec2](https://github.com/user-attachments/assets/454034ae-9396-4d9c-bef9-51d228f62b9e)
 
-DURUS also includes an Avianics Bay paired with code, that will allow for the system to initiate and launch correctly and thouroughly: 
+DURUS also includes an Avianics Bay which includes a built in Altimeter for flight controlling and tracking as well as data,this controller will also launch all of the technical aspects of the rocket, like the parachutes for example, along with a GPS tracker assembly which allows for tracking of the rocket, paired with code, this assembly will allow for the system to initiate and launch correctly and thouroughly: 
 ![fullavbay](https://github.com/user-attachments/assets/ee03e278-e597-4bbb-85b8-e37eca0efa70)
+
+This is the schematic or the wiring diagram of the Avionics Bay, this includes the wiring internals of the AV bay with its respective wiring: 
 ![Altimeter Schematic](https://github.com/user-attachments/assets/4bfb5538-65f7-4c29-a315-b1ae463c9dfa)
 
 ----------------------------------------------------------------------------------------------------------
